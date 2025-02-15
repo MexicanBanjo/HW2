@@ -1,7 +1,8 @@
 
 /*
  * *** PLACE YOUR NAME / SECTION HERE ***
- *
+ * Edwin Johnson 
+ * Section: COMP 400 001
  * Homework # 2 (Programming Assignment). This Java class defines a few basic
  * manipulation operations of a binary trees.
  *
@@ -12,7 +13,6 @@
 import java.util.Queue;
 import java.util.LinkedList;
 
-// Name: Edwin Johnson Section: COMP 400 001
 /*
  * Class BinaryTree
  *
